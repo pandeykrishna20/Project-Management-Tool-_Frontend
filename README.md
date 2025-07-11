@@ -20,13 +20,13 @@ Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, a
 ## 📸 Screenshots
 
 ### 🔐 Login/Register Page  
-![Login Page](./asset/login-registration.png)
+![Login Page](../asset/login-registration.png)
 
 ### 🗂️ Project Dashboard  
-![Dashboard](./asset/dashboard.png)
+![Dashboard](../asset/dashboard.png)
 
 ### 📋 Project Details with Tasks  
-![Project Details](./asset/project-detail.png)
+![Project Details](../asset/project-detail.png)
 
 ---
 
@@ -47,4 +47,6 @@ Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, a
 ```bash
 git clone https://github.com/pandeykrishna20/Project-Management-Tool-_Frontend.git
 cd Project-Management-Tool-_Frontend
+
+
 
