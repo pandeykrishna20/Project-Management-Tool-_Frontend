@@ -4,7 +4,7 @@ import type { Project } from './types';
 export const projectApi = createApi({
   reducerPath: 'projectApi',
   baseQuery: fetchBaseQuery({
-    baseUrl: 'http://localhost:5000/api',
+    baseUrl: 'http://localhost:9000/api',
     prepareHeaders: (headers, { getState }) => {
       const token = (getState() as any).auth.token;
       if (token) headers.set('Authorization', `Bearer ${token}`);
