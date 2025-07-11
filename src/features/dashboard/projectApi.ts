@@ -7,6 +7,8 @@ export const projectApi = createApi({
     baseUrl: 'http://localhost:9000/api',
     prepareHeaders: (headers, { getState }) => {
       const token = (getState() as any).auth.token;
+      // const token = localStorage.getItem('token');
+
       if (token) headers.set('Authorization', `Bearer ${token}`);
       return headers;
     },
