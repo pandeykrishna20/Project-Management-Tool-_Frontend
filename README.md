@@ -44,9 +44,19 @@ Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, a
 
 ### 📁 Clone the Project
 
+
 ```bash
-git clone https://github.com/pandeykrishna20/Project-Management-Tool-_Frontend.git
+https://github.com/pandeykrishna20/Project-Management-Tool-_Frontend.git
 cd Project-Management-Tool-_Frontend
+
+
+## Running the Server
+     ->  First Install dependency
+               npm install
+     -> Run the following command
+               npm start
+
+
 
 
 
