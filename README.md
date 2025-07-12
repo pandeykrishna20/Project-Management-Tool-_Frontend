@@ -42,15 +42,16 @@ Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, a
 
 ## 🚀 Getting Started
 
-### 📁 Clone the Project
+> **Note:** Make sure your backend server is running at **http://localhost:9000** before starting the frontend application.
 
+### 📁 Clone the Project 
 
 ```bash
 https://github.com/pandeykrishna20/Project-Management-Tool-_Frontend.git
 cd Project-Management-Tool-_Frontend
 
 
-## Running the Server
+##  Running the Server
      ->  First Install dependency
                npm install
      -> Run the following command
