@@ -20,13 +20,13 @@ Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, a
 ##  Screenshots
 
 ###  Login/Register Page  
-![Login Page](../asset/login-registration.png)
+![Login Page](./src/asset/login-registration.png)
 
 ###  Project Dashboard  
-![Dashboard](../asset/dashboard.png)
+![Dashboard](./src/asset/dashboard.png)
 
 ###  Project Details with Tasks  
-![Project Details](../asset/project-detail.png)
+![Project Details](./src/asset/project-detail.png)
 
 ---
 
