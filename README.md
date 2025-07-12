@@ -1,7 +1,7 @@
 # 🚀 Project Management Tool (frontend)
 
 A modern and responsive web application for managing projects and tasks efficiently.  
-Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, and styled with **Bootstrap 5**.
+Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, and styled with **Bootstrap **.
 
 ---
 
@@ -35,8 +35,8 @@ Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, a
 - **Frontend**: React + TypeScript  
 - **State Management**: Redux Toolkit + RTK Query  
 - **Form Handling**: React Hook Form + Yup  
-- **Styling**: Bootstrap 5  
-- **Auth**: JWT stored in Redux + localStorage  
+- **Styling**: Bootstrap   
+- **Auth**: JWT stored in Redux + localStorage 
 
 ---
 
