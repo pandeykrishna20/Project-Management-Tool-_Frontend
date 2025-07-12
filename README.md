@@ -1,36 +1,36 @@
-# 🚀 Project Management Tool (frontend)
+#  Project Management Tool (frontend)
 
 A modern and responsive web application for managing projects and tasks efficiently.  
 Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, and styled with **Bootstrap **.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 User authentication (Login/Register with JWT)
-- 🧠 Authenticated user dashboard
-- 📁 Create, edit, and delete projects
-- 📋 Add, edit, delete tasks for each project
-- 🔍 Search projects by title
-- 📊 Filter tasks by status (To Do, In Progress, Done)
-- 💻 Clean, responsive, and user-friendly UI
+-  User authentication (Login/Register with JWT)
+-  Authenticated user dashboard
+-  Create, edit, and delete projects
+-  Add, edit, delete tasks for each project
+-  Search projects by title
+-  Filter tasks by status (To Do, In Progress, Done)
+-  Clean, responsive, and user-friendly UI
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔐 Login/Register Page  
+###  Login/Register Page  
 ![Login Page](../asset/login-registration.png)
 
-### 🗂️ Project Dashboard  
+###  Project Dashboard  
 ![Dashboard](../asset/dashboard.png)
 
-### 📋 Project Details with Tasks  
+###  Project Details with Tasks  
 ![Project Details](../asset/project-detail.png)
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙ Tech Stack
 
 - **Frontend**: React + TypeScript  
 - **State Management**: Redux Toolkit + RTK Query  
@@ -40,11 +40,11 @@ Built using **React**, **TypeScript**, **Redux Toolkit**, **React Hook Form**, a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 > **Note:** Make sure your backend server is running at **http://localhost:9000** before starting the frontend application.
 
-### 📁 Clone the Project 
+###  Clone the Project 
 
 ```bash
 https://github.com/pandeykrishna20/Project-Management-Tool-_Frontend.git
